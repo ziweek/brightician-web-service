@@ -22,7 +22,7 @@ export default function HeroSSDC() {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          {/* <img className="object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600"> */}
+          <h1>이미지</h1>
         </div>
       </div>
     </>

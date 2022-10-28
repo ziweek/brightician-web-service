@@ -17,12 +17,12 @@ export default function MemberView() {
         <div className="grid grid-cols-2 md:grid-cols-5 gap-x-20 gap-y-8 lg:gap-y-12">
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1567515004624-219c11d31f2e??auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Radu Florin"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -75,12 +75,12 @@ export default function MemberView() {
 
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1532073150508-0c1df022bdd1?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by christian ferrer"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -133,12 +133,12 @@ export default function MemberView() {
 
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1463453091185-61582044d556?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Ayo Ogunseinde"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -191,12 +191,12 @@ export default function MemberView() {
 
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1529068755536-a5ade0dcb4e8?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Midas Hofstra"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -249,12 +249,12 @@ export default function MemberView() {
 
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Elizeu Dias"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -306,12 +306,12 @@ export default function MemberView() {
           </div>
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Elizeu Dias"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -363,12 +363,12 @@ export default function MemberView() {
           </div>
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Elizeu Dias"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -420,12 +420,12 @@ export default function MemberView() {
           </div>
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Elizeu Dias"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -477,12 +477,12 @@ export default function MemberView() {
           </div>
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Elizeu Dias"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -535,12 +535,12 @@ export default function MemberView() {
 
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Matheus Ferrero"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -593,12 +593,12 @@ export default function MemberView() {
 
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1566492031773-4f4e44671857?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Leilani Angel"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
@@ -651,12 +651,12 @@ export default function MemberView() {
 
           <div className="flex flex-col items-center">
             <div className="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
-              <img
+              {/* <img
                 src="https://images.unsplash.com/photo-1562904403-a5106bef8319?auto=format&q=75&fit=crop&w=256"
                 loading="lazy"
                 alt="Photo by Jernej Graj"
                 className="w-full h-full object-cover object-center"
-              />
+              /> */}
             </div>
 
             <div>
