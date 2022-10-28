@@ -13,18 +13,16 @@ export default function Hero() {
             Welcome to Brightician
           </h1>
           <p className="mb-8 leading-relaxed">
-            Meggings kinfolk echo park stumptown DIY, kale chips beard jianbing
-            tousled. Chambray dreamcatcher trust fund, kitsch vice godard
-            disrupt ramps hexagon mustache umami snackwave tilde chillwave ugh.
-            Pour-over meditation PBR&B pickled ennui celiac mlkshk freegan photo
-            booth af fingerstache pitchfork.
+            우리는 유연한 조직을 추구합니다. 그러나 저희는 구성원의 빠른 성장을
+            지원합니다. 우리의 조직은 코딩은 아직 어렵지만 아이디어가 있는
+            구성원들이 그들의 logic과 algorithms 만으로 아이디어를 실체화
+            가능하게 돕습니다. 동시에 코딩은 할 수 있지만 아이디어가 필요한
+            구성원들이 저 멀리서 빛나는 아이디어를 자신의 코드로 실현가능하도록
+            돕습니다.
           </p>
           <div className="flex justify-center">
-            <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-              Project
-            </button>
-            <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
-              Contact
+            <button className="inline-flex text-white bg-cyan-700 border-0 py-2 px-6 focus:outline-none hover:bg-cyan-900 rounded text-lg">
+              커뮤니티 가입하기
             </button>
           </div>
         </div>
