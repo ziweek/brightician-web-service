@@ -16,7 +16,7 @@ export default function Content() {
             <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
             <p className="leading-relaxed">
               Edison bulb retro cloud bread echo park, helvetica stumptown
-              taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
+              taiyaki taxidermy 90s cronut +1 kinfolk. Single-origin coffee
               ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
               adaptogen squid fanny pack vaporware.
             </p>
@@ -32,7 +32,7 @@ export default function Content() {
             <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
             <p className="leading-relaxed">
               Edison bulb retro cloud bread echo park, helvetica stumptown
-              taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
+              taiyaki taxidermy 90s cronut +1 kinfolk. Single-origin coffee
               ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
               adaptogen squid fanny pack vaporware.
             </p>
@@ -48,7 +48,7 @@ export default function Content() {
             <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
             <p className="leading-relaxed">
               Edison bulb retro cloud bread echo park, helvetica stumptown
-              taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
+              taiyaki taxidermy 90s\ cronut +1 kinfolk. Single-origin coffee
               ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
               adaptogen squid fanny pack vaporware.
             </p>
